@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p><img src="https://www.vardhanagrawal.com/wp-content/uploads/2020/11/vardhan-github-readme-cover.png" alt="Vardhan Agrawal's GitHub README Cover">
   <p align="center">
   
