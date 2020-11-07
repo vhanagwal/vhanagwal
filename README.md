@@ -1,4 +1,4 @@
-<!--<p><img src="https://www.vardhanagrawal.com/wp-content/uploads/2020/11/vardhan-github-readme-cover.png" alt="Vardhan Agrawal's GitHub README Cover">
+<p><img src="https://www.vardhanagrawal.com/wp-content/uploads/2020/11/vardhan-github-readme-cover.png" alt="Vardhan Agrawal's GitHub README Cover">
   <p align="center">
   
 <a href="https://twitter.com/vhanagwal/"><img src="https://img.shields.io/badge/-vhanagwal-610cff?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/vhanagwal/" alt="Twitter"></a>
