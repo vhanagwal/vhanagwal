@@ -1,4 +1,4 @@
-<p><img src="https://www.vardhanagrawal.com/wp-content/uploads/2020/11/vardhan-github-readme-cover.png" alt="Vardhan Agrawal's GitHub README Cover">
+<!--<p><img src="https://www.vardhanagrawal.com/wp-content/uploads/2020/11/vardhan-github-readme-cover.png" alt="Vardhan Agrawal's GitHub README Cover">
   <p align="center">
   
 <a href="https://twitter.com/vhanagwal/"><img src="https://img.shields.io/badge/-vhanagwal-610cff?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/vhanagwal/" alt="Twitter"></a>
@@ -13,7 +13,7 @@
 
 ![Vardhan's Github Stats](https://github-readme-stats.vercel.app/api?username=vhanagwal&show_icons=false&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)
 
-
+-->
 <!--
 **vhanagwal/vhanagwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
